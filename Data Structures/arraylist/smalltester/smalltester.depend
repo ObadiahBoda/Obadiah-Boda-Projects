@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569554735 source:c:\users\13147\desktop\school\data structures\arraylist\smalltester\main.cpp
+	<iostream>
+	"arraylist.h"
+
+1569543008 c:\users\13147\desktop\school\data structures\arraylist\smalltester\arraylist.h
+	<iostream>
+	"arraylist.hpp"
+
+1569554756 c:\users\13147\desktop\school\data structures\arraylist\smalltester\arraylist.hpp
+	<iostream>
+
